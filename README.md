@@ -1,1 +1,1 @@
-# MovieRAG-Context-Aware-Movie-Insights
+Built a MovieRAG-Context-Aware-Movie-Insights RAG chain agent using Hugging Face’s Qwen LLM via API, integrated with Pinecone vector database for semantic retrieval, and orchestrated through the LangChain framework. Designed for domain‑aware query answering with efficient context handling and scalable deployment.
